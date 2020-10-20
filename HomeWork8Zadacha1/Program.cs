@@ -50,6 +50,7 @@ namespace HomeWork8Zadacha1
                 Console.WriteLine("IV");
             else
                 Console.WriteLine("на оси");
+            Console.ReadKey();
         }
     }
 }
